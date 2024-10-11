@@ -1,5 +1,11 @@
-template-repository (1.0-1) unstable; urgency=medium
+golang-github-common-nighthawk-go-figure (0.0~git20210622.734e95f-2) unstable; urgency=medium
 
-  * Initial release
+  * Source only upload for migration to testing.
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Simon Josefsson <simon@josefsson.org>  Thu, 18 Jan 2024 10:47:46 +0100
+
+golang-github-common-nighthawk-go-figure (0.0~git20210622.734e95f-1) unstable; urgency=medium
+
+  * Initial release (Closes: #1061050)
+
+ -- Simon Josefsson <simon@josefsson.org>  Wed, 17 Jan 2024 01:35:46 +0100
